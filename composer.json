@@ -1,5 +1,5 @@
 {
-  "name": "mageplaza/module-product-alerts-graphql",
+  "name": "drinks-it/mageplaza-module-product-alerts-graphql",
   "description": "Magento 2 Product Alerts GraphQl Extension",
   "type": "magento2-module",
   "version": "1.0.0",
